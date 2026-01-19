@@ -238,9 +238,9 @@ We provide 3 model weights for UniMed-CLIP as listed in the table below. For lar
 
 | `model_name`       | `text encoder`                              |                                                                               `pretrained_weights`                                                                               | Res. |      GPUs       | Avg. score on 21 datasets |
 |:-------------------|:--------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----:|:---------------:|:-------------------------:|
-| ViT-B-16-quickgelu | BiomedNLP-BiomedBERT-base-uncased-abstract  |          [`unimed_clip_vit_b16`](https://mbzuaiac-my.sharepoint.com/:u:/g/personal/uzair_khattak_mbzuai_ac_ae/Ee8EpjZS6SJGiZUrV7DyLxkBrVFir5YzMjYZIc8aEc2oUA?e=I7KvRb)           | 224  | 16 x A100 (40G) |           61.63           |
-| ViT-L-14-quickgelu | BiomedNLP-BiomedBERT-large-uncased-abstract | [`unimed_clip_vit_l14_large_text_encoder`](https://mbzuaiac-my.sharepoint.com/:u:/g/personal/uzair_khattak_mbzuai_ac_ae/Ea2CZ1dc_B9PsTHp5kAeUBsB-bncfRmjra63YDM0bn9JRw?e=hWxW1s) | 336  | 16 x A100 (40G) |           62.09           |
-| ViT-L-14-quickgelu | BiomedNLP-BiomedBERT-base-uncased-abstract  | [`unimed_clip_vit_l14_base_text_encoder`](https://mbzuaiac-my.sharepoint.com/:u:/g/personal/uzair_khattak_mbzuai_ac_ae/EfeUk8TpOkNEsRDMIIYlxNcB_8swAJgt0Ix3igjxM2z_nw?e=3CnPKb)  | 336  | 16 x A100 (40G) |           64.84           |
+| ViT-B-16-quickgelu | BiomedNLP-BiomedBERT-base-uncased-abstract  |          [`unimed_clip_vit_b16`](https://mbzuaiac-my.sharepoint.com/:f:/g/personal/uzair_khattak_alumni_mbzuai_ac_ae/IgA_8JPYHG7CRqdIj78kf8ocARFVKNC6pdZrkEcCSwlrOag?e=LzXZCi)         | 224  | 16 x A100 (40G) |           61.63           |
+| ViT-L-14-quickgelu | BiomedNLP-BiomedBERT-large-uncased-abstract | [`unimed_clip_vit_l14_large_text_encoder`](https://mbzuaiac-my.sharepoint.com/:f:/g/personal/uzair_khattak_alumni_mbzuai_ac_ae/IgA_8JPYHG7CRqdIj78kf8ocARFVKNC6pdZrkEcCSwlrOag?e=LzXZCi)  | 336  | 16 x A100 (40G) |           62.09           |
+| ViT-L-14-quickgelu | BiomedNLP-BiomedBERT-base-uncased-abstract  | [`unimed_clip_vit_l14_base_text_encoder`](https://mbzuaiac-my.sharepoint.com/:f:/g/personal/uzair_khattak_alumni_mbzuai_ac_ae/IgA_8JPYHG7CRqdIj78kf8ocARFVKNC6pdZrkEcCSwlrOag?e=LzXZCi)   | 336  | 16 x A100 (40G) |           64.84           |
 
 
 ## Preparing UniMed-Dataset
