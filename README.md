@@ -4,11 +4,6 @@
     <img src="https://i.imgur.com/waxVImv.png" alt="Image">
 </p>
 
-> [Muhammad Uzair Khattak*](https://muzairkhattak.github.io/), [
-Shahina Kunhimon*](https://scholar.google.com/citations?hl=en&user=yYPksIkAAAAJ), [Muzammal Naseer](https://muzammal-naseer.com/), [Salman Khan](https://salman-h-khan.github.io/), [Fahad Shahbaz Khan](https://sites.google.com/view/fahadkhans/home)
-
-**Mohamed bin Zayed University of AI, Swiss Federal Institute of Technology Lausanne (EPFL), Khalifa University,  Australian National University, Linköping University**
-
 *Equally contributing first authors
 
 [![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2412.10372)
