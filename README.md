@@ -4,8 +4,6 @@
     <img src="https://i.imgur.com/waxVImv.png" alt="Image">
 </p>
 
-*Equally contributing first authors
-
 [![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2412.10372)
 [![Dataset](https://img.shields.io/badge/Dataset-Access-<COLOR>)](docs/UniMed-DATA.md)
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/UzairK/unimed-clip-medical-image-zero-shot-classification)
