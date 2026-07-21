@@ -274,11 +274,6 @@ We provide instructions for performing zero-shot evaluation using pretrained Uni
 torchrun --nproc_per_node=1 src/training/main.py b16_400m_eval <logs-path-to-save> <path-to-pretrained-weights>
 ```
 
-## Questions and Support
-
-Contact Muhammad Uzair (uzair.khattak@mbzuai.ac.ae) or Shahina Kunhimon (shahina.kunhimon@mbzuai.ac.ae) regarding any questions about the code and the paper.
-
-
 ## Citation
 
 If you find our work and this repository helpful, please consider giving our repo a star and citing our paper as follows:
